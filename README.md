@@ -18,7 +18,6 @@ Before running the application locally, ensure you have the following installed:
 This will create a virtual environment in the `.venv` directory and install the required packages.
 
 ```bash
-uv venv
 source .venv/bin/activate
 ```
 
